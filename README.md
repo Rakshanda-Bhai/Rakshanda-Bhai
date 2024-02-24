@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rakshanda Bhai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshanda-bhai&label=Profile%20views&color=0e75b6&style=flat" alt="rakshanda-bhai" /> </p>
 <img align="right alt="coding" width="400" src="https://medium.com/geekculture/why-should-a-cs-and-non-cs-student-practice-competitive-programming-9fa1451fcab3">
